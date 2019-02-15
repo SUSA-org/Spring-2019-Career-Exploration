@@ -1,5 +1,5 @@
 # Spring 2019 Career Exploration Materials
-Collection of materials to bring new members of SUSA @ Berkeley up to speed. Hosted by and maintained by the [Statistics Undergrad Student Association (SUSA)](https://susa.berkeley.edu).
+Collection of materials created by the SUSA Education Committee for the purpose of instructing the Career Exploration Committee. Hosted by and maintained by the [Statistics Undergrad Student Association (SUSA)](https://susa.berkeley.edu).
 
 ## What will we learn?
 
