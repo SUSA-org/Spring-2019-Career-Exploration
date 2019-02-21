@@ -8,14 +8,12 @@ from datetime import datetime
 SCRIPT_URL = "https://script.google.com/macros/s/AKfycbzaG2qqiE9xSJwumi_gbPjDjYqe0_8tHXe_OApamvrnV0pk9uBR/exec"
 
 REQUIRED_TAGS = {
-    'num_to_letter_grade_output': None,
     'either_factor_output': None,
-    'fib_output': None,
     'yellow_pages_output': None,
-    '5a': None,
-    '5b': None,
-    '5c': None,
-    '5d': None
+    '3a': None,
+    '3b': None,
+    '3c': None,
+    '3d': None
 }
 
 def get_jupyter_notebooks(extension="ipynb"):
