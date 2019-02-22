@@ -1,2 +1,4 @@
-.ipynb_checkpoints/
-__MACOSX__/
+**/__pycache__/
+**/.ipynb_checkpoints/
+**/.DS_Store
+**/__MACOSX__/
